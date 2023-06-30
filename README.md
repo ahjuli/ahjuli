@@ -17,4 +17,4 @@ Additional Information:
 Currently focusing on continuous learning and skill development.
 Seeking opportunities to collaborate on projects within my current capabilities.
 Email: julia.viana.2003@outlook.com
-
+.
