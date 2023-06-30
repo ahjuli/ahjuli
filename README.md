@@ -2,7 +2,7 @@ hey! I'm Julia;
 Objective:
 To become a skilled developer and contribute to impactful projects.
 
-Skills:
+🚀Skills:
 
 Proficient in Java and Python programming languages.
 Knowledge of systems development principles and methodologies.
@@ -17,4 +17,4 @@ Additional Information:
 Currently focusing on continuous learning and skill development.
 Seeking opportunities to collaborate on projects within my current capabilities.
 Email: julia.viana.2003@outlook.com
-.
+
